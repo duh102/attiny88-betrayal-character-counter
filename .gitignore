@@ -1,0 +1,5 @@
+*.elf
+*.hex
+nohup.out
+/flash.sh
+*.swp
